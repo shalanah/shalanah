@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/shalanah/shalanah/blob/master/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/shalanah/shalanah/master/style.css" />
 
 ### Hi there, I'm Shalanah 👋
 
