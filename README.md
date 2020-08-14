@@ -1,3 +1,5 @@
+<link rel="https://github.com/shalanah/shalanah/blob/master/style.css" type="text/css" media="all" href="URL" />
+
 ### Hi there, I'm Shalanah 👋
 
 🚧 🚧 🚧 Readme is under construction... 🚧 🚧 🚧
