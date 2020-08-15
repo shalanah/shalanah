@@ -2,7 +2,7 @@
 
 🚧 🚧 🚧 Readme is under construction... 🚧 🚧 🚧
 
-![](./test.svg)
+![](https://raw.githubusercontent.com/shalanah/shalanah/master/test.svg)
 
 
 <!--
