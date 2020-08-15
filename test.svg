@@ -1,0 +1,134 @@
+<svg viewBox="0 0 150 100" width="100%"
+  xmlns="http://www.w3.org/2000/svg" style="height: auto; background: #F1F2F2; overflow: hidden; border: 1px solid green;">
+  <style>
+    #sidebar {
+      background: green;
+      position: absolute;
+      width: 32%;
+      height: 100%;
+      left: 68%;
+      top: 0%;
+    }
+    h1 {
+      font-family: 'Lato', sans-serif;
+      font-size: 5px;
+      color: #fff;
+    }
+    #main {
+      background: #F1F2F2;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 100%;
+      height: 100%;
+    }
+    #slides {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 68%;
+      height: 100%;
+      background: red;
+    }
+    .slide {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 50%;
+      height: 30%;
+      background: #fff;
+      opacity: 0;
+      pointer-events: none;
+      transition: .2s;
+    }
+    .slide:nth-of-type(1) {
+      background: yellow
+    }
+    .slide:nth-of-type(2) {
+      background: green
+    }
+    .slide:nth-of-type(3) {
+      background: pink
+    }
+    .slide:nth-of-type(4) {
+      background: black
+    }
+    .text {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 50%;
+      opacity: 0;
+      transition: .2s;
+    }
+    input {
+      position: absolute;
+      bottom: 50%;
+      left: 30%;
+      width: 10%;
+      height: 10%;
+      background: yellow;
+    }
+    input:nth-of-type(2) {
+      left: 40%;
+    }
+    input:nth-of-type(3) {
+      left: 50%;
+    }
+    input:nth-of-type(4) {
+      left: 60%;
+    }
+    input:nth-of-type(1):checked ~ ._1 {
+      opacity: 1 !important;
+    }
+    input:nth-of-type(2):checked ~ ._2 {
+      opacity: 1 !important;
+    }
+    input:nth-of-type(3):checked ~ ._3 {
+      opacity: 1 !important;
+    }
+    input:nth-of-type(4):checked ~ ._4 {
+      opacity: 1 !important;
+    }
+    
+  </style>
+  <foreignObject x="0" y="0" width="150" height="100">
+    <link xmlns="http://www.w3.org/1999/xhtml" href="https://fonts.googleapis.com/css2?family=Lato" rel="stylesheet"></link>
+    <div id="main"
+      xmlns="http://www.w3.org/1999/xhtml">
+      <div id="sidebar"></div>
+      <div id="slides"
+        xmlns="http://www.w3.org/1999/xhtml">
+        <input xmlns="http://www.w3.org/1999/xhtml" type="radio" name="slide" value="0" checked="true" />
+        <input xmlns="http://www.w3.org/1999/xhtml" type="radio" name="slide" value="1" />
+        <input xmlns="http://www.w3.org/1999/xhtml" type="radio" name="slide" value="2" />
+        <input xmlns="http://www.w3.org/1999/xhtml" type="radio" name="slide" value="3" />
+        <div class="slide _1"
+          xmlns="http://www.w3.org/1999/xhtml"></div>
+        <div class="slide _2"
+          xmlns="http://www.w3.org/1999/xhtml"></div>
+        <div class="slide _3"
+          xmlns="http://www.w3.org/1999/xhtml"></div>
+        <div class="slide _4"
+          xmlns="http://www.w3.org/1999/xhtml"></div>
+        <div class="text _1"
+          xmlns="http://www.w3.org/1999/xhtml">
+          <h1>Hey 1</h1>
+        </div>
+        <div class="text _2"
+          xmlns="http://www.w3.org/1999/xhtml">
+          <h1>Hey 2</h1>
+        </div>
+        <div class="text _3"
+          xmlns="http://www.w3.org/1999/xhtml">
+          <h1>Hey 3</h1>
+        </div>
+        <div class="text _4"
+          xmlns="http://www.w3.org/1999/xhtml">
+          <h1>Hey 4</h1>
+        </div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
