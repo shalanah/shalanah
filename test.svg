@@ -78,16 +78,16 @@
     input:nth-of-type(4) {
       left: 60%;
     }
-    input:nth-of-type(1):checked ~ ._1 {
+    input:nth-of-type(1):hover ~ ._1 {
       opacity: 1 !important;
     }
-    input:nth-of-type(2):checked ~ ._2 {
+    input:nth-of-type(2):hover ~ ._2 {
       opacity: 1 !important;
     }
-    input:nth-of-type(3):checked ~ ._3 {
+    input:nth-of-type(3):hover ~ ._3 {
       opacity: 1 !important;
     }
-    input:nth-of-type(4):checked ~ ._4 {
+    input:nth-of-type(4):hover ~ ._4 {
       opacity: 1 !important;
     }
     
