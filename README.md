@@ -8,7 +8,7 @@ Lead development of Card, Album, and Simple editors to help photographers craft 
 
 ## For fun...
 
-I love art, math, coding and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
+I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
 ## Side Projects
 
