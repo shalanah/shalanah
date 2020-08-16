@@ -1,7 +1,7 @@
 <img src="https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true" />
 
 ## Hi there! I'm Shalanah!
-I love making interactive web apps. Currently working with JS, React, CSS, SVGs, and Canvas.
+I am a frontend developer with a knack and enthusiasm for exploring new technologies while ensuring that design is user-friendly. Never shy to take on new challenges, I love problem solving and working with other developers.
 
 ## @WHCC
 Lead development of our Card, Album, and Simple editors to help photographers craft printed products. 
@@ -11,8 +11,6 @@ Lead development of our Card, Album, and Simple editors to help photographers cr
 I love art, math, coding and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
 ### On the web
-
-#### Spiral 
 
 - [Spiral Betty](spiralbetty.com): Turn your images into spirals.
 - [Where Does the Squirrel Sleep](wheredoesthesquirrelsleep.com): Husband and I published a children's book. Grant, my husband, wrote it, Nathan Stromberg created the artwork, and I crafted the book layout and landing page.
