@@ -1,6 +1,6 @@
 <img src="https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true" />
 
-## Hey there! I'm Shalanah!
+## Hi there! I'm Shalanah!
 I love making interactive web apps. Currently working with JS, React, CSS, SVGs, and Canvas.
 
 ## @WHCC
