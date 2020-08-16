@@ -10,7 +10,7 @@ Lead development of Card, Album, and Simple Editors to help photographers craft 
 
 I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
-## Side Projects
+## Projects
 
 - [Spiral Betty](spiralbetty.com): Turn your images into spirals.
 - [Where Does the Squirrel Sleep](wheredoesthesquirrelsleep.com): My husband and I published a children's book! Grant wrote it, Nathan Stromberg created the artwork, and I crafted the book layout and landing page.
