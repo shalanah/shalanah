@@ -2,7 +2,7 @@
 
 🚧 🚧 🚧 Readme is under construction... 🚧 🚧 🚧
 
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/shalanah/shalanah/master/test.svg" class="logo">Object test</object>
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/shalanah/shalanah/master/test.svg" class="logo"></object>
 
 <!--
 **shalanah/shalanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
