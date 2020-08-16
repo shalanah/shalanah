@@ -16,7 +16,7 @@ I love art, math, coding and [playing broomball](https://youtu.be/jXegEec5dC8?t=
 - [Where Does the Squirrel Sleep](wheredoesthesquirrelsleep.com): My husband and I published a children's book! Grant wrote it, Nathan Stromberg created the artwork, and I crafted the book layout and landing page.
 - [Baseline](https://shalanah.github.io/baseline/): Created a new method for rendering text leading on the web.
 - [Block Wrap Breaks](https://github.com/shalanah/block-wrap-breaks): Created a new method for finding the first character of each line in a block of text.
-- Occassionaly give talks on side projects, React, and SVG at [JSMN](https://www.meetup.com/JavaScriptMN/) and [React Minneapolis](https://www.meetup.com/React-Minneapolis-Meetup/)
+- [Talks](https://github.com/shalanah/talks): Occassionaly give talks on side projects, React, and SVG at [JSMN](https://www.meetup.com/JavaScriptMN/) and [React Minneapolis](https://www.meetup.com/React-Minneapolis-Meetup/)
 
 
 <!--
