@@ -1,7 +1,7 @@
 <img src="https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true" />
 
 ## Hi there! I'm Shalanah!
-I am a frontend developer with a knack and enthusiasm for exploring new technologies while ensuring that design is user-friendly. Never shy to take on new challenges, I love problem solving and working with other developers.
+I am a frontend engineer with a knack and enthusiasm for exploring new technologies while ensuring that design is user-friendly. Never shy to take on new challenges, I love problem solving and working with other developers.
 
 ## @WHCC
 Lead development of our Card, Album, and Simple editors to help photographers craft printed products. 
