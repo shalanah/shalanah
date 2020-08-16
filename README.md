@@ -13,7 +13,7 @@ I love art, math, coding and [playing broomball](https://youtu.be/jXegEec5dC8?t=
 ### On the web
 
 - [Spiral Betty](spiralbetty.com): Turn your images into spirals.
-- [Where Does the Squirrel Sleep](wheredoesthesquirrelsleep.com): Husband and I published a children's book. Grant, my husband, wrote it, Nathan Stromberg created the artwork, and I crafted the book layout and landing page.
+- [Where Does the Squirrel Sleep](wheredoesthesquirrelsleep.com): My husband and I published a children's book! Grant wrote it, Nathan Stromberg created the artwork, and I crafted the book layout and landing page.
 - [Baseline](https://shalanah.github.io/baseline/): Method for creating leading in the web.
 - [Block Wrap Breaks](https://github.com/shalanah/block-wrap-breaks): Find the first character of a block of text.
 
