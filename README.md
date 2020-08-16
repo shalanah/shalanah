@@ -4,7 +4,7 @@
 I love making interactive web apps. Currently working with JS, React, CSS, SVGs, and Canvas.
 
 ## @WHCC
-I lead the development of our Card, Album, and Simple editors to help photographers craft printed products. 
+Lead development of our Card, Album, and Simple editors to help photographers craft printed products. 
 
 ## For fun...
 
