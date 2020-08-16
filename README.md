@@ -4,7 +4,7 @@
 I am a frontend engineer with a knack and enthusiasm for exploring new technologies while ensuring that design is user-friendly. Never shy to take on new challenges, I love problem solving and working with other developers.
 
 ## @WHCC
-Lead development of Card, Album, and Simple editors to help photographers craft printed products. 
+Lead development of Card, Album, and Simple Editors to help photographers craft printed products. 
 
 ## For fun...
 
