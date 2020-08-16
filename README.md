@@ -1,7 +1,7 @@
 ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true)
 
 # Hi there! I'm Shalanah!
-I enjoy creating interactive web apps.
+I enjoy creating interactive web apps. I mostly work with JS, React, CSS, SVG, and Canvas.
 
 ## @WHCC
 Lead development of Card, Album, and Simple Editors to help photographers craft printed products. 
