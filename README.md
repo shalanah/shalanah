@@ -12,11 +12,13 @@ I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t
 
 ## Projects
 
-- [Spiral Betty](https://spiralbetty.com): Turn your images into spirals.
-- [Where Does the Squirrel Sleep](https://wheredoesthesquirrelsleep.com): My husband and I published a children's book! Grant wrote it, Nathan Stromberg created the artwork, and I put together the book layout and landing page.
-- [Baseline](https://shalanah.github.io/baseline/): New method for rendering text leading on the web.
-- [Block Wrap Breaks](https://github.com/shalanah/block-wrap-breaks): New method for finding the first character of each line in a block of text.
-- [Talks](https://github.com/shalanah/talks): Occassionaly give talks on side projects, React, and SVG at [JSMN](https://www.meetup.com/JavaScriptMN/) and [React Minneapolis](https://www.meetup.com/React-Minneapolis-Meetup/)
+Apply a spiral filter to your images with [Spiral Betty](https://spiralbetty.com). You can even print off in ["coloring book mode"](https://www.youtube.com/watch?v=_rV4uJDW3l8) and color in yourself!
+
+Read [Where Does the Squirrel Sleep?](https://wheredoesthesquirrelsleep.com) before bedtime to little ones. It's an empathy building story about where different animals sleep. Grant, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
+
+Get more control of web text with new methods to [create leading on the web](https://github.com/shalanah/baseline) and finding the [first character in each line of a block of text](https://github.com/shalanah/block-wrap-breaks).
+
+Hear me [talk](https://github.com/shalanah/talks) around the Twin Cities about side projects, text in the browser, React, or hand-coding SVGs.
 
 
 <!--
