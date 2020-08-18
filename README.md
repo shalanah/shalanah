@@ -12,13 +12,13 @@ I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t
 
 ## Projects
 
-Apply a spiral filter to your images with [Spiral Betty](https://spiralbetty.com). You can even print off in ["coloring book mode"](https://www.youtube.com/watch?v=_rV4uJDW3l8) and color in yourself!
+Apply a spiral filter to your images with <a href="https://spiralbetty.com"><img src="https://github.com/shalanah/shalanah/blob/master/projects/spiral-betty.png" height="24"/> Spiral Betty</a>. You can even print off in ["coloring book mode"](https://www.youtube.com/watch?v=_rV4uJDW3l8) and color in yourself!
 
-Read [Where Does the Squirrel Sleep?](https://wheredoesthesquirrelsleep.com) before bedtime to little ones. It's an empathy building story about where different animals sleep. Grant, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
+Read <a href="https://wheredoesthesquirrelsleep.com"><img src="https://github.com/shalanah/shalanah/blob/master/projects/where-does-the-squirrel-sleep.png" height="22"/> Where Does the Squirrel Sleep?</a> before bedtime to little ones. It's an empathy building story about where different animals sleep. Grant, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
 
-Get more control of web text with new methods to [create leading on the web](https://github.com/shalanah/baseline) and finding the [first character in each line of a block of text](https://github.com/shalanah/block-wrap-breaks).
+Get more control of web text with new methods to create [leading on the web](https://github.com/shalanah/baseline) and to find the [first character of each line of of text](https://github.com/shalanah/block-wrap-breaks).
 
-Hear me [talk](https://github.com/shalanah/talks) around the Twin Cities about side projects, text in the browser, React, or hand-coding SVGs.
+Hear me <a href="https://github.com/shalanah/talks"><img src="https://github.com/shalanah/shalanah/blob/master/projects/talks.png" height="20"/> talk</a> around the Twin Cities about side projects, text in the browser, React, or hand-coding SVGs.
 
 
 <!--
