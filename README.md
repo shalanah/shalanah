@@ -16,7 +16,7 @@ I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t
 
 Apply a spiral filter to your images with <a href="https://spiralbetty.com"><img src="https://github.com/shalanah/shalanah/blob/master/projects/spiral-betty.png" height="24"/> Spiral Betty</a>. You can even print off in ["coloring book mode"](https://www.youtube.com/watch?v=_rV4uJDW3l8) and color in yourself!
 
-Grab your yoga mat and center yourself with this loving-kindness meditation app <a href="https://kindcloud.app"><img src="https://github.com/shalanah/shalanah/blob/master/projects/kind-cloud.png" height="24"/> Kind Cloud</a>.
+Grab your yoga mat and center yourself with this loving-kindness meditation app <a href="https://kindcloud.app"><img src="https://github.com/shalanah/shalanah/blob/master/projects/kind-cloud.png" height="22"/> Kind Cloud</a>.
 
 Read <a href="https://wheredoesthesquirrelsleep.com"><img src="https://github.com/shalanah/shalanah/blob/master/projects/where-does-the-squirrel-sleep.png" height="22"/> Where Does the Squirrel Sleep?</a> before bedtime to little ones. It's an empathy building story about where different animals sleep. Grant, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
 
