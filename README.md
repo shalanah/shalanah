@@ -26,7 +26,7 @@ Grab your yoga mat and center yourself with this loving-kindness meditation app 
 
 Read <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> before bedtime to little ones. It's an empathy building story about where different animals sleep. Grant Dawson, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
 
-<h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/baseline.png" height="24"/> Text Experiements</h3>
+<h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/baseline.png" height="24"/> Text Experiments</h3>
 
 Get more control of web text with a brand new method to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
 
