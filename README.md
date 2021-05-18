@@ -12,7 +12,7 @@ Lead development of <a target="_blank" href="https://www.youtube.com/watch?v=gs2
 
 I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
-## Projects
+## Side Projects
 
 <h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/spiral-betty.png" height="24"/> Spiral Betty</h3>
 
