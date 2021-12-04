@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # Hi there! I'm Shalanah!
 
-I enjoy responding to users needs by designing digital products and coding interactive web apps. I work with JS, React, Node, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
+I enjoy anticipating users needs by designing digital products and coding interactive web apps. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 
 ## Formerly @WHCC
 
@@ -15,7 +15,7 @@ I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t
 
 <h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/spiral-betty.png" height="24"/> Spiral Betty</h3>
 
-Apply a spiral filter to your images with <a href="https://spiralbetty.com">Spiral Betty</a>. You can even print off in ["coloring book mode"](https://www.youtube.com/watch?v=_rV4uJDW3l8) and color in yourself!
+Apply a spiral filter to your images with <a href="https://spiralbetty.com">Spiral Betty</a>. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok tagged #spiralbetty</a> and has more than 64M video views.
 
 <h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/kind-cloud2.png" height="20"/> Kind Cloud</h3>
 
