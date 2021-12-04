@@ -9,7 +9,7 @@ Lead development of <a target="_blank" href="https://www.youtube.com/watch?v=gs2
 
 ## For Fun
 
-I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
+I love art, math, app creation, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
 ## Side Projects
 
