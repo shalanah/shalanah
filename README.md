@@ -7,7 +7,7 @@ I enjoy anticipating users needs by designing digital products and coding intera
 
 Lead development of <a target="_blank" href="https://www.youtube.com/watch?v=gs2CZlUXrCo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-card.png" height="24"/> Card</a>, <a target="_blank" href="https://www.youtube.com/watch?v=YjctUy61XSo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-album.png" height="26"/> Album</a>, and <img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-simple.png" height="22"/> Simple Editors to help photographers create printed products.
 
-## For fun...
+## For Fun
 
 I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
