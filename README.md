@@ -19,7 +19,7 @@ Apply a spiral filter to your images with <a href="https://spiralbetty.com">Spir
 
 <h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/kind-cloud2.png" height="20"/> Kind Cloud</h3>
 
-Grab your yoga mat and center yourself with this loving-kindness meditation app <a href="https://kindcloud.app">Kind Cloud</a>.
+Grab your yoga mat and center yourself with this loving-kindness sound-free meditation app <a href="https://kindcloud.app">Kind Cloud</a>.
 
 <h3><img src="https://github.com/shalanah/shalanah/blob/master/projects/where-does-the-squirrel-sleep.png" height="22"/> Where Does the Squirrel Sleep?</h3>
 
