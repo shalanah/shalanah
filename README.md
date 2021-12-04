@@ -1,5 +1,4 @@
-![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true)
-
+<!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # Hi there! I'm Shalanah!
 
 I enjoy creating interactive web apps. I mostly work with JS, React, CSS, SVG, and Canvas.
