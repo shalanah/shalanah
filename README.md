@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # Hi there! I'm Shalanah!
 
-I enjoy creating interactive web apps. I mostly work with JS, React, CSS, SVG, and Canvas.
+I enjoy responding to users needs by designing digital products and coding interactive web apps. I work with JS, React, Node, CSS, SVG, Canvas, and Figma.
 
 ## Formerly @WHCC
 
