@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # Hi there! I'm Shalanah!
 
-I enjoy anticipating users needs by designing digital products and coding interactive web apps. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
+I enjoy anticipating users needs by designing + coding interactive web apps. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 
 ## Formerly @WHCC
 
