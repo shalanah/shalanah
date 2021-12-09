@@ -17,7 +17,7 @@ Lead Frontend Engineer developing <a target="_blank" href="https://www.youtube.c
 
 ## For Fun
 
-I love art, math, app creation, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
+I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
 ## Side Projects
 
