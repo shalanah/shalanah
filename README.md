@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # Hi there! I'm Shalanah!
 
-- I love designing + coding interactive websites. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
+- I design + code interactive websites. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 
 - ❤️ Outside of work, I love art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 
