@@ -3,9 +3,19 @@
 
 I love designing + coding interactive web apps. I work with JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 
-## Formerly @WHCC
+## Work
 
-Lead development of <a target="_blank" href="https://www.youtube.com/watch?v=gs2CZlUXrCo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-card.png" height="24"/> Card</a>, <a target="_blank" href="https://www.youtube.com/watch?v=YjctUy61XSo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-album.png" height="26"/> Album</a>, and <img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-simple.png" height="22"/> Simple Editors to help photographers create printed products.
+#### @WeSparkle (2021-current) 
+
+CPO at Twin Cities startup 
+
+#### @WHCC (2015-2021)
+
+Lead Frontend Engineer developing <a target="_blank" href="https://www.youtube.com/watch?v=gs2CZlUXrCo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-card.png" height="24"/> Card</a>, <a target="_blank" href="https://www.youtube.com/watch?v=YjctUy61XSo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-album.png" height="26"/> Album</a>, and <img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-simple.png" height="22"/> Simple Editors to help photographers create printed products.
+
+#### History
+
+See complete work history at <a target="_blank" href="https://linkedin.com/in/shalanah">linkedin.com/in/shalanah</a>
 
 ## For Fun
 
