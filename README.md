@@ -10,7 +10,7 @@
 ## Work
 
 - CPO at the Twin Cities startup We Sparkle
-- Formerly @whcc as Lead Frontend Engineer developing <a target="_blank" href="https://www.youtube.com/watch?v=gs2CZlUXrCo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-card.png" height="24"/> Card</a>, <a target="_blank" href="https://www.youtube.com/watch?v=YjctUy61XSo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-album.png" height="26"/> Album</a>, and <img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-simple.png" height="22"/> Simple Editors to help photographers create printed products.
+- Formerly @whcc as Lead Frontend Engineer developing <a target="_blank" href="https://www.youtube.com/watch?v=gs2CZlUXrCo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-card.png" height="22"/> Card</a>, <a target="_blank" href="https://www.youtube.com/watch?v=YjctUy61XSo"><img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-album.png" height="23"/> Album</a>, and <img src="https://github.com/shalanah/shalanah/blob/master/projects/whcc-simple.png" height="19"/> Simple Editors to help photographers create printed products.
 
 ## Side Projects
 
