@@ -4,7 +4,7 @@
 - 📝 Design + code interactive websites
 - 🛠 JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 - ❤️ Art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
-- ✉️ <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">Youtube</a>
+- ✉️ <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ### Work
 
