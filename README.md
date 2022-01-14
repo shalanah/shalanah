@@ -4,7 +4,7 @@
 - 📝 Design + code interactive websites
 - 🛠 JS, React, Node, MongoDB, AWS, Python, CSS, SVG, Canvas, Figma, Photoshop, Illustrator, and InDesign.
 - ❤️ Art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
-- ✉️ <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
+- ✉️ <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">Youtube</a>
 
 ### Work
 
@@ -13,7 +13,7 @@
 
 ### Side Projects
 
-- 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> and has more than 67M video views.
+- 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> and has more than 69M video views.
 - ☁️ <a href="https://kindcloud.app">Kind Cloud</a> - A sound-free, loving-kindness meditation web app.
 - 💤 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep. Grant Dawson, my husband, wrote the book, Nathan Stromberg created the delightful artwork, and I did book layout and created a landing page for it.
 - 🔬 Text Experiments - Get more control of web text with a brand new method to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
