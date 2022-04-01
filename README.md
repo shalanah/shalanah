@@ -4,7 +4,7 @@
 - 📝 Design + code interactive websites
 - ❤️ Art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
-- 🖥 Coding @mathigon
+- 🖥 Coder at [@mathigon](https://github.com/mathigon)
 
 ## Side Projects
 
