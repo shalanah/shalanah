@@ -15,7 +15,7 @@
 
 ---
 
-Hear me talk about side projects, text in the browser, React, or hand-coding SVGs. <a href="https://github.com/shalanah/talks">Past Talks</a>
+- 🎤 Hear me talk about side projects, text in the browser, React, or hand-coding SVGs. <a href="https://github.com/shalanah/talks">Talks</a>
 
 
 <!--
