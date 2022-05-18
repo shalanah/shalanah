@@ -10,7 +10,7 @@
 
 - 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> and has more than 80M video views.
 - ☁️ <a href="https://kindcloud.app">Kind Cloud</a> - A free + sound-free, loving-kindness meditation web app.
-- 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page for it.
+- 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
 - 🔬 Text Experiments - Create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
 
 ---
