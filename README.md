@@ -13,9 +13,6 @@
 - 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
 - 🔬 Text Experiments - Create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
 
----
-
-
 
 <!--
 **shalanah/shalanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
