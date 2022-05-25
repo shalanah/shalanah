@@ -7,7 +7,7 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## Side Projects
-
+- 🎤 Hear me talk about side projects, text in the browser, React, or hand-coding SVGs. <a href="https://github.com/shalanah/talks">Talks</a>
 - 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> and has more than 80M video views.
 - ☁️ <a href="https://kindcloud.app">Kind Cloud</a> - A free + sound-free, loving-kindness meditation web app.
 - 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
@@ -15,7 +15,6 @@
 
 ---
 
-🎤 Hear me talk about side projects, text in the browser, React, or hand-coding SVGs. <a href="https://github.com/shalanah/talks">Talks</a>
 
 
 <!--
