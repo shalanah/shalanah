@@ -8,7 +8,7 @@
 - 🪴 Values - curiosity, sharing, growth, diversity, user-focused, trust, autonomy, efficiency
 
 ## Side Projects
-- 🎤 Hear me <a href="https://github.com/shalanah/talks">talk</a> about side projects, text in the browser, React, or hand-coding SVGs. 
+- 🎤 <a href="https://github.com/shalanah/talks">Talks</a> - on side projects, text in the browser, React, or hand-coding SVGs. 
 - 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> and has more than 80M video views.
 - ☁️ <a href="https://kindcloud.app">Kind Cloud</a> - A free + sound-free, loving-kindness meditation web app.
 - 🔬 Text Experiments - Create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
