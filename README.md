@@ -5,6 +5,7 @@
 - ❤️ Art, math, coding, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 🖥 Engineer at [@mathigon](https://github.com/mathigon)
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://dev.to/shalanahfaith">Dev.to</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
+- 🪴 Some values - curiosity, sharing, growth, diversity, openness, user-focused, trust, autonomy + reducing bottlenecks
 
 ## Side Projects
 - 🎤 Hear me talk about side projects, text in the browser, React, or hand-coding SVGs. <a href="https://github.com/shalanah/talks">Talks</a>
