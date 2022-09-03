@@ -18,8 +18,8 @@ For fun side projects, talks, and experiments.
 Every company has their own processes for interviewing. Here are code challenges I've completed over the years.
 - [A wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS challenge (first time using)](https://github.com/shalanah/babylonjs-try)
-- [Slingshot JS only - no frameworks](https://github.com/shalanah/slingshot)
 - [Mia events](https://github.com/shalanah/mia-events)
+- [Slingshot JS only - no frameworks](https://github.com/shalanah/slingshot)
 
 <!--
 **shalanah/shalanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
