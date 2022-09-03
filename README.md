@@ -16,7 +16,7 @@ For fun side projects, talks, and experiments.
 
 ## Code Challenges
 Every company has their own processes for interviewing. Here are some code challenges I've completed over the years.
-- [A wordle clone](https://github.com/shalanah/birdle)
+- [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Events calendar](https://github.com/shalanah/mia-events)
 - [Slingshot](https://github.com/shalanah/slingshot)
