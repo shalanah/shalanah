@@ -15,7 +15,7 @@ For fun side projects, talks, and experiments.
 - 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
 
 ## Code Challenges
-Each company has their own processes for interviewing. Some of those include code challenges.
+A collection of code challenges I've completed during the interview process.
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Events calendar](https://github.com/shalanah/mia-events)
