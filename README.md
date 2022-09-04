@@ -14,7 +14,7 @@
 - 🐿 <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
 
 ## Code Challenges
-A collection of code challenges I've completed during the interview process.
+A collection of code challenges I've completed during interviews
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Events calendar](https://github.com/shalanah/mia-events)
