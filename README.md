@@ -7,7 +7,6 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## Side Projects
-For fun side projects, talks, and experiments.
 - 🌀 <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
 - ☁️ <a href="https://kindcloud.app">Kind Cloud</a> - A free + sound-free, loving-kindness meditation web app.
 - 🎤 <a href="https://github.com/shalanah/talks">Talks</a> - On side projects, text in the browser, React, or hand-coding SVGs. 
