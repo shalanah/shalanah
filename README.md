@@ -6,7 +6,8 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## Work
-- Engineer at [@mathigon](https://github.com/mathigon)
+- Upcoming... stay tuned
+- Previously: Senior Software Engineer at [@mathigon](https://github.com/mathigon)
 - Previously: Chief Product Officer at MN startup We Sparkle
 - Previously: Lead Frontend Engineer at WHCC of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
  
