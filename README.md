@@ -7,9 +7,9 @@
 
 ## Work
 - Upcoming... stay tuned
-- Previously: Senior Software Engineer at [@mathigon](https://github.com/mathigon)
-- Previously: Chief Product Officer at MN startup We Sparkle
-- Previously: Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
+- Past: Senior Software Engineer at [@mathigon](https://github.com/mathigon)
+- Past: Chief Product Officer at MN startup We Sparkle
+- Past: Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
  
 ## Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
