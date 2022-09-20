@@ -6,7 +6,7 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## Work
-- Senior Software Engineer at [Scanifly](https://scanifly.com)
+- Senior Three.js Engineer at [Scanifly](https://scanifly.com)
 - Past: Senior Software Engineer at [@mathigon](https://github.com/mathigon)
 - Past: Chief Product Officer at MN startup We Sparkle
 - Past: Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
