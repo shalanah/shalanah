@@ -7,7 +7,7 @@
 
 ## Work
 - Senior Three.js Engineer at [Scanifly](https://scanifly.com)
-- Past: Senior Software Engineer at [@mathigon](https://github.com/mathigon)
+- Past: Senior Software Engineer at [@mathigon](https://github.com/mathigon) working on [Polypad](https://mathigon.org/polypad), [Dev Reel](https://youtu.be/KP7lTOnc0ks)
 - Past: Chief Product Officer at MN startup We Sparkle
 - Past: Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
  
