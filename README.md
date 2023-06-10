@@ -6,10 +6,14 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## Work
-- Current: Senior Software Engineer at [Scanifly](https://scanifly.com)
-- Past: Senior Software Engineer at [@mathigon](https://github.com/mathigon) working on [Polypad](https://youtu.be/KP7lTOnc0ks)
-- Past: Chief Product Officer at MN startup We Sparkle
-- Past: Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
+
+### Current
+- Senior Software Engineer at [Scanifly](https://scanifly.com)
+
+### Past
+- Senior Software Engineer at [@mathigon](https://github.com/mathigon) working on [Polypad](https://youtu.be/KP7lTOnc0ks)
+- Chief Product Officer at MN startup We Sparkle
+- Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
  
 ## Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
