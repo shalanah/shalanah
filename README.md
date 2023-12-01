@@ -6,7 +6,10 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## ☕️ Work
-- Left 9-5 for a self-funded sabbatical 🏝️. Looking forward to making new apps, updating old ones, and lots of 3d + 2d experiments on the way
+
+Left 9-5 for a self-funded sabbatical 🏝️. 
+
+Looking forward to making new apps, updating old ones, and lots of 3D + 2D experiments on the way
 
 ### Past
 - Senior Software Engineer at [Scanifly](https://scanifly.com)
