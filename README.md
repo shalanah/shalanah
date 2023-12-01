@@ -7,9 +7,8 @@
 
 ## ☕️ Work
 
-Left 9-5 for a self-funded sabbatical 🏝️. 
-
-Looking forward to making new apps, updating old ones, and lots of 3D + 2D experiments on the way
+- Left 9-5 for a self-funded sabbatical 🏝️. 
+- Looking forward to making new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
