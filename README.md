@@ -6,7 +6,7 @@
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
 
 ## ☕️ Work
-- 🏝️ Left to try a working sabbatical
+- 🏝️ Left to work on side projects
 
 ### Past
 - Senior Software Engineer at [Scanifly](https://scanifly.com)
