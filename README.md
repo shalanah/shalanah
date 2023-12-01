@@ -10,12 +10,6 @@
 Left 9-5 for a self-funded sabbatical 🏝️. 
 
 Looking forward to making new apps, updating old ones, and lots of 3D + 2D experiments on the way
-
-### Past
-- Senior Software Engineer at [Scanifly](https://scanifly.com)
-- Senior Software Engineer at [@mathigon](https://github.com/mathigon) working on [Polypad](https://youtu.be/KP7lTOnc0ks) 
-- Chief Product Officer at MN startup We Sparkle
-- Lead Frontend Engineer at [@whcc](https://github.com/whcc) of simple, [card](https://www.youtube.com/watch?v=gs2CZlUXrCo), and [album](https://www.youtube.com/watch?v=YjctUy61XSo) editors
  
 ## 🪴 Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
