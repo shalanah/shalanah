@@ -4,6 +4,8 @@
 - 📝 Design + code interactive websites
 - ❤️ Coding, math, art, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
+- 🎤 <a href="https://github.com/shalanah/talks">Talks</a> - On side projects, text in the browser, React, or hand-coding SVGs. 
+
 
 ## ☕️ Work
 
@@ -13,7 +15,6 @@
 ## 🪴 Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> - Spiralize your images. Spiral Betty went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a>.
 - <a href="https://kindcloud.app">Kind Cloud</a> - A free + sound-free, loving-kindness meditation web app.
-- <a href="https://github.com/shalanah/talks">Talks</a> - On side projects, text in the browser, React, or hand-coding SVGs. 
 - Text Experiments - Invented a new way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - A charming book about where different animals sleep - book layout and created a landing page
 
