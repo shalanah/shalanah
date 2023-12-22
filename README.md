@@ -12,9 +12,9 @@
 - Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
-- <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty more then 100M views).
-- <a href="https://kindcloud.app">Kind Cloud</a> a free + sound-free, loving-kindness meditation web app.
-- Invented a new way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text.
+- <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty more then 100M views)
+- <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
+- Invented a new way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
 - Book layout and landing page for <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a>
 
 ## ✨ Code Challenges
