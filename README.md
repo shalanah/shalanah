@@ -7,7 +7,7 @@
 
 ## ☕️ Work
 
-- On a self-funded sabbatical 🏝️
+- Left my 9-5 for a self-funded sabbatical 🏝️
 - Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
