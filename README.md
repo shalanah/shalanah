@@ -4,7 +4,7 @@
 - 📝 Design + code interactive websites
 - ❤️ Coding, math, art, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 📬 <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a href="https://www.youtube.com/channel/UCWwMtdxebz1uuoAWtlFfzww">YouTube</a>
-- 🎤 <a href="https://github.com/shalanah/talks">Talks</a> - On side projects, text in the browser, React, or hand-coding SVGs. 
+- 🎤 <a href="https://github.com/shalanah/talks">Talks</a> on side projects, text in the browser, React, or hand-coding SVGs. 
 
 
 ## ☕️ Work
