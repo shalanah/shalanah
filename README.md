@@ -18,6 +18,7 @@
 - Book layout and landing page for <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a>
 
 ## ✨ Code Challenges
+
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Events calendar](https://github.com/shalanah/mia-events)
