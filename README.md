@@ -14,8 +14,12 @@
 ## 🪴 Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views)
 - <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
-- Invented new way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
 - Book layout and landing page for <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a>
+
+## 👩🏻‍🔬 Experiments 
+
+- Created new ways to use <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
+
 
 ## ✨ Code Challenges
 
