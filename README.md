@@ -19,7 +19,7 @@
 ## 👩🏻‍🔬 Experiments 
 
 - [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
-- Created new ways to use <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
+- New ways to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
 
 
 ## ✨ Code Challenges
