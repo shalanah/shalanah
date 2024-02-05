@@ -20,7 +20,7 @@
 
 - [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
 
-## Tools
+## 🛠️ Tools
 
 - New way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
 - <a href="https://github.com/shalanah/inapp-debugger">Inapp debugger</a> for mobile and tablet devices
