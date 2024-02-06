@@ -11,17 +11,14 @@
 - <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
 - Book layout and landing page for <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a>
 
-## 👩🏻‍🔬 Experiments 
-
-- [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
-
 ## 🛠️ Tools
 
 - New way to create <a href="https://github.com/shalanah/baseline">leading on the web</a> and find the [first character of each line](https://github.com/shalanah/block-wrap-breaks) in a block of text
 - <a href="https://github.com/shalanah/inapp-debugger">Inapp debugger</a> for mobile and tablet devices
 
-## ✨ Code Challenges
+## 👩🏻‍🔬 Experiments + Code Challenges
 
+- [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Events calendar](https://github.com/shalanah/mia-events)
