@@ -3,8 +3,8 @@
 
 - ❤️ Coding, math, art, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 📍 <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a href="https://github.com/shalanah/talks">Talks</a>
-- Left my 9-5 for a self-funded sabbatical 🏝️
-- Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
+- 🏝️ Left my 9-5 for a self-funded sabbatical 
+- ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
 - <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views)
