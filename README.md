@@ -17,9 +17,12 @@
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
 
-## 👩🏻‍🔬 Experiments + Code Challenges
+## 👩🏻‍🔬 Experiments
 
 - [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
+
+## 💻 Code Challenges
+
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Company Team Page](https://github.com/shalanah/design-engineer-exercise)
