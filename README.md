@@ -22,6 +22,7 @@
 - [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
 - [Spin on a wordle clone](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
+- [Company Team Page](https://github.com/shalanah/design-engineer-exercise)
 - [Events calendar](https://github.com/shalanah/mia-events)
 - [Slingshot](https://github.com/shalanah/slingshot)
 
