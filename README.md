@@ -24,7 +24,7 @@
 
 ## 💻 Code Challenges
 
-- [Spin on a wordle clone](https://github.com/shalanah/birdle)
+- [Wordle Clone (Birdle)](https://github.com/shalanah/birdle)
 - [BabylonJS](https://github.com/shalanah/babylonjs-try)
 - [Company Team Page](https://github.com/shalanah/design-engineer-exercise)
 - [Events calendar](https://github.com/shalanah/mia-events)
