@@ -6,9 +6,9 @@
 - ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
-- <a href="https://ios404.com">iOS404</a> missing iOS webkit features from caniuse.com on a milk carton
 - <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views)
 - <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
+- <a href="https://ios404.com">iOS404</a> missing iOS webkit features from caniuse.com on a milk carton
 - Book layout and landing page for <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a>
 
 ## 🛠️ Tools
