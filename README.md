@@ -15,13 +15,13 @@
 
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
-- <a href="https://github.com/shalanah/baseline">Baseline</a> a new way to create leading on the web - no JS or font metrics needed
+- <a href="https://github.com/shalanah/baseline">Baseline 📏</a> a new way to create leading on the web - no JS or font metrics needed
 
 
 ## 👩🏻‍🔬 Experiments
 
-- [Rosie the Robot](https://rosie-rive.netlify.app/) animation study with Rive + React
-- [First Character](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
+- [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
+- [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
 
 ## 💻 Code Challenges
 
