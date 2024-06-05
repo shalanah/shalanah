@@ -7,7 +7,7 @@
  
 ## 🪴 Side Projects
 - <a href="https://ios404.com">iOS404</a> the missing web features of iOS (caniuse data)
-- <a href="https://spiralbetty.com">Spiral Betty</a> went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
+- <a href="https://spiralbetty.com">Spiral Betty</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> book layout (design) and landing page
 
