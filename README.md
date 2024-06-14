@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
 # 👋 Hi there! I'm Shalanah!
 
-- ❤️ Coding, math, art, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
+- ❤️ Coding, math, art, learning German, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
 - 📍 <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://github.com/shalanah/talks">Talks</a>
 - ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
