@@ -11,7 +11,7 @@
 - <a href="https://spiralbetty.com">Spiral Betty</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> book layout (design) and landing page
 
-## 🛠️ Tools + 👩🏻‍🔬 Experiments
+## 👩🏻‍🔬 Tools + Experiments
 
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
