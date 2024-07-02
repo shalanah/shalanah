@@ -6,12 +6,12 @@
 - ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
-- <a href="https://wandawhirl.com">Wanda Whirl</a> kooky and calming party streamers that twirl in the wind (in-progress)
-- <a href="https://ios404.com">iOS404</a> the missing web features of iOS (caniuse data)
-- <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
-- <a href="https://spiralbetty.com">Spiral Betty</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
+- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> kooky and calming party streamers that twirl in the wind (in-progress)
+- <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
+- <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
+- <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
-- <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> book layout (design) and landing page
+- <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> book layout (design) and landing page
 
 ## 👩🏻‍🔬 Tools + Experiments
 
