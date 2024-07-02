@@ -19,6 +19,7 @@
 - [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
 
+<!--
 ## 💻 Code Challenges
 
 - [Wordle Clone (Birdle)](https://github.com/shalanah/birdle)
@@ -26,6 +27,7 @@
 - [Company Team Page](https://github.com/shalanah/design-engineer-exercise)
 - [Events calendar](https://github.com/shalanah/mia-events)
 - [Slingshot](https://github.com/shalanah/slingshot)
+-->
 
 <!--
 **shalanah/shalanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
