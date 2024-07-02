@@ -10,6 +10,7 @@
 - <a href="https://ios404.com">iOS404</a> the missing web features of iOS (caniuse data)
 - <a href="https://kindcloud.app">Kind Cloud</a> loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
+- [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> book layout (design) and landing page
 
 ## 👩🏻‍🔬 Tools + Experiments
@@ -17,7 +18,6 @@
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
 - <a href="https://github.com/shalanah/baseline">Baseline 📏</a> a new way to create leading on the web - no JS or font metrics needed
-- [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
 
 <!--
