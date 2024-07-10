@@ -6,7 +6,7 @@
 - ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
  
 ## 🪴 Side Projects
-- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> kooky and calming party streamers that twirl and whirl in the breeze (in-progress)
+- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> kooky and calming party streamers that twirl and whirl in the breeze (WIP)
 - <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
 - <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
