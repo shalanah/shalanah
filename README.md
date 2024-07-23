@@ -7,8 +7,9 @@
 You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
 
 ## Technical Skills
-- **Languages & Libraries**: Javascript/Typescript, CSS/SCSS/Tailwind/Styled Components/CSS Modules, React, ThreeJS/R3F, useSpring, GSAP, RAF, SVGs, Canvas, Redux/RTK, Python, Next.js, MongoDB, Node
-- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign
+- **Specialties**: React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
+- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
+- **Other Languages & Libraries**: ThreeJS, R3F, Python, Next.js, MongoDB, Node
  
 ## Side Projects
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze (WIP)
