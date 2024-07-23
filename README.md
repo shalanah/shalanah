@@ -1,19 +1,24 @@
 <!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
-# 👋 Hi there! I'm Shalanah!
 
-- ❤️ Code, math, art, learning German, and [playing broomball](https://youtu.be/jXegEec5dC8?t=1973).
-- 📍 <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://github.com/shalanah/talks">Talks</a>
-- ☕️ Working on new apps, updating old ones, and lots of 3D 📦 + 2D ◼️ experiments on the way!
+## About Me
+
+👋 Hi there! I'm Shalanah, a software engineer with over 20 years experience in frontend development and design. I love creating intuitive, interactive, and joyful interfaces. In the past, I've focused on editors of all stripes to allow users to create photo albums, holiday cards, photo filters, math lessons, and solar panel systems. Although I specialize in frontend development, I've also worked with Node, Python, AWS, Firebase Functions, and MongoDB. Currently I'm on a self-funded sabbatical giving talks and experiementing with ThreeJS, Blender, R3F, NextJS, and Rive.app. 
+
+You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
+
+## Technical Skills
+- **Languages & Libraries**: Javascript/Typescript, CSS/SCSS/Tailwind/Styled Components/CSS Modules, React, ThreeJS/R3F, useSpring, GSAP, RAF, SVGs, Canvas, Redux/RTK, Python, Next.js, MongoDB, Node
+- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign
  
-## 🪴 Side Projects
-- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> kooky and calming party streamers that twirl and whirl in the breeze (WIP)
+## Side Projects
+- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze (WIP)
 - <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
 - <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> book layout (design) and landing page
 
-## 👩🏻‍🔬 Tools + Experiments
+## Tools + Experiments
 
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
