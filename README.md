@@ -12,7 +12,7 @@ You can connect with me on <a target="_blank" href="https://linkedin.com/in/shal
 - **Other Languages & Libraries**: ThreeJS, R3F, Python, Next.js, MongoDB, Node
  
 ## Side Projects
-- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze (WIP)
+- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze
 - <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
 - <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
