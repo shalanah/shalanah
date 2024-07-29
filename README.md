@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there! I'm Shalanah, a software engineer specializing in frontend development and design. I've focused on editors of all stripes to allow users to create photo albums, holiday cards, photo filters, math lessons, and solar panel systems. Although my passion lies in frontend development, I've also worked with Node, Python, AWS, Firebase Functions, and MongoDB. Currently, I'm on a self-funded sabbatical giving talks and experimenting with ThreeJS, Blender, R3F, NextJS, and Rive.app. 
+Hi there! I'm Shalanah, a software engineer specializing in frontend development and design. I've focused on editors of all stripes to allow users to create photo albums, holiday cards, photo filters, math lessons, and solar panel systems. Although my passion lies in user interfaces, I've also worked with Node, Python, AWS, Firebase Functions, and MongoDB. Currently, I'm on a self-funded sabbatical giving talks and experimenting with ThreeJS, Blender, R3F, NextJS, and Rive.app. 
 
 You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
 
