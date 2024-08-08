@@ -7,11 +7,6 @@
 Hi there! 👋 I'm Shalanah, a software engineer specializing in frontend development and design. I've focused on interactive editors to help users create photo albums, holiday cards, photo filters, math lessons, and solar panel systems. Although my passion lies in user interfaces, I've also worked with Node, Python, AWS, Firebase Functions, and MongoDB. Currently, I'm on a self-funded sabbatical giving talks and experimenting with ThreeJS, Blender, R3F, NextJS, and Rive.app. 
 
 You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
-
-## Technical Skills
-- **Specialties**: React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
-- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
-- **Other Languages & Libraries**: ThreeJS, R3F, Python, Next.js, MongoDB, Node
  
 ## Side Projects
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze
@@ -27,6 +22,11 @@ You can connect with me on <a target="_blank" href="https://linkedin.com/in/shal
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
 - <a href="https://github.com/shalanah/baseline">Baseline 📏</a> a new way to create leading on the web - no JS or font metrics needed
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
+
+## Technical Skills
+- **Specialties**: React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
+- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
+- **Other Languages & Libraries**: ThreeJS, R3F, Python, Next.js, MongoDB, Node
 
 <!--
 ## 💻 Code Challenges
