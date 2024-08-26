@@ -19,7 +19,7 @@ You can connect with me on <a target="_blank" href="https://linkedin.com/in/shal
 
 ## Tools + Experiments
 
-- <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection (forked + refactored from the no longer maintained `detect-inapp`)
+- <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection
 - <a href="https://github.com/shalanah/baseline">Baseline 📏</a> a new way to create leading on the web - no JS or font metrics needed
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
 
