@@ -11,7 +11,7 @@ You can connect with me on <a target="_blank" href="https://linkedin.com/in/shal
 ## Side Projects
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze
 - <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
-- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods for mobile and tablet devices
+- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods
 - <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
