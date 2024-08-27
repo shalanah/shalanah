@@ -9,24 +9,53 @@ Hi there! 👋 I'm Shalanah, a software engineer specializing in frontend develo
 You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
  
 ## Side Projects
-- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> calming streamers that twirl and whirl in the breeze
-- <a href="https://ios404.com">iOS404 🧃</a> the missing web features of iOS (caniuse data)
-- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> handy website for in-app detection, download testing, and in-app escape methods
-- <a href="https://kindcloud.app">Kind Cloud 🌈</a> loving-kindness meditation web app
-- <a href="https://spiralbetty.com">Spiral Betty ꩜</a> spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
-- [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) animation study with Rive + React
-- <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> book layout (design) and landing page
+
+### <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> 
+Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
+
+### <a href="https://ios404.com">iOS404 🧃</a>
+The missing web features of iOS - using caniuse data
+
+### <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a>
+Handy website for in-app detection, download testing, and in-app escape methods
+
+### [Rosie the Robot 🤖](https://rosie-rive.netlify.app/)
+
+Animation study with Rive + React
+
+### <a href="https://kindcloud.app">Kind Cloud 🌈</a>
+
+Loving-kindness meditation web app
+
+### <a href="https://spiralbetty.com">Spiral Betty ꩜</a>
+
+Spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
+
+### <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> 
+
+Book layout (design) and landing page
 
 ## Tools + Experiments
 
-- <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> npm package for in-app detection
-- <a href="https://github.com/shalanah/baseline">Baseline 📏</a> a new way to create leading on the web - no JS or font metrics needed
-- [First Character 📝](https://github.com/shalanah/block-wrap-breaks) find the first character of each line of a block of text
+### <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a>
+Package for in-app detection (on npm)
+
+### <a href="https://github.com/shalanah/baseline">Baseline 📏</a> 
+A new way to create leading on the web - no JS or font metrics needed
+
+### [First Character 📝](https://github.com/shalanah/block-wrap-breaks)
+Find the first character of each line of a block of text
 
 ## Technical Skills
-- **Specialties**: React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
-- **Tools & Platforms**: Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
-- **Other Languages & Libraries**: ThreeJS, R3F, Python, Next.js, MongoDB, Node
+
+### Specialties 
+React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
+
+### Tools & Platforms
+Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
+
+### Other Languages & Libraries
+ThreeJS, R3F, Python, Next.js, MongoDB, Node
 
 <!--
 ## 💻 Code Challenges
