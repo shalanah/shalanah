@@ -10,7 +10,7 @@ Currently, I’m on a creative sabbatical, diving into exciting projects with Th
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
  
-## Side Projects
+## Side Projects + Experiements
 
 - <a href="https://shalanah.com">shalanah.com</a> - Developer portfolio 
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
@@ -21,9 +21,6 @@ Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">Li
 - <a href="https://spiralbetty.com">Spiral Betty ꩜</a> -
 Spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> - Book layout (design) and landing page
-
-## Tools + Experiments
-
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> - Package for in-app detection (on npm)
 - <a href="https://github.com/shalanah/baseline">Baseline 📏</a> - A new way to create leading on the web - no JS or font metrics needed
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
