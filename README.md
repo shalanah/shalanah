@@ -25,17 +25,6 @@ Spiral and other image filters web app. Went viral on <a href="https://tiktok.co
 - <a href="https://github.com/shalanah/baseline">Baseline 📏</a> - A new way to create leading on the web - no JS or font metrics needed
 - [First Character 📝](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
 
-## Technical Skills
-
-### Specialties 
-React, Javascript/Typescript, responsive websites, PWAs, styling (CSS/SCSS/Tailwind/Styled Components/CSS Modules), web animation (GSAP, useSpring, RAF, SVGs, Canvas), Redux/RTK
-
-### Tools & Platforms
-Github, VSCode, AWS, Netlify, Firebase Functions, Figma, Illustrator, Photoshop, InDesign, Blender
-
-### Other Languages & Libraries
-ThreeJS, R3F, Python, Next.js, MongoDB, Node
-
 <!--
 ## 💻 Code Challenges
 
