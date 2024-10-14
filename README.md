@@ -12,7 +12,7 @@ Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">Li
  
 ## Side Projects
 
-### <a href="https://shalanah.com">Shalanah.com</a> 
+### <a href="https://shalanah.com">shalanah.com</a> 
 Developer portfolio - overviews of side projects + work history
 
 ### <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> 
