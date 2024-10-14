@@ -8,9 +8,12 @@ Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating cap
 
 Currently, I’m on a creative sabbatical, diving into exciting projects with Three.js, Blender, R3F, Next.js, and Rive.app. I'm also exploring new ways to monetize Spiral Betty and sharing insights through talks on In-App Browsers (IAB). Always curious, always building!
 
-You can connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, or view previous community <a href="https://github.com/shalanah/talks">Talks</a>.
+Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
  
 ## Side Projects
+
+### <a href="https://shalanah.com">Shalanah.com</a> 
+Developer portfolio - overviews of side projects + work history
 
 ### <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> 
 Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
