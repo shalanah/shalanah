@@ -10,7 +10,7 @@ Currently, I’m on a creative sabbatical, diving into exciting projects with Th
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
  
-## Side Projects + Experiements
+## Side Projects + Experiments
 
 - <a href="https://shalanah.com">shalanah.com</a> - Developer portfolio 
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
