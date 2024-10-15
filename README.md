@@ -12,7 +12,7 @@ Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">Li
 
 See work and project samples at [shalanah.com](https://shalanah.com)
  
-## Side Projects + Experiments
+## Projects + Experiments
 
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
 - <a href="https://ios404.com">iOS404 🧃</a> - The missing web features of iOS - using caniuse data
