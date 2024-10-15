@@ -9,10 +9,11 @@ Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating cap
 Currently, I’m on a creative sabbatical, diving into exciting projects with Three.js, Blender, R3F, Next.js, and Rive.app. I'm also exploring new ways to monetize Spiral Betty and sharing insights through talks on In-App Browsers (IAB). Always curious, always building!
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
+
+See work and project samples at [shalanah.com](https://shalanah.com)
  
 ## Side Projects + Experiments
 
-- <a href="https://shalanah.com">shalanah.com</a> - Developer portfolio 
 - <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
 - <a href="https://ios404.com">iOS404 🧃</a> - The missing web features of iOS - using caniuse data
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> - Handy website for in-app detection, download testing, and in-app escape methods
