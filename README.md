@@ -6,7 +6,7 @@
 
 Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating captivating frontend experiences. My expertise lies in developing interactive tools that empower users to craft everything from photo albums and holiday cards to educational resources and solar panel designs. While user interfaces are my true love, I've also worked across a range of technologies, including Node, Python, AWS, Firebase Functions, and MongoDB.
 
-Currently, I’m on a creative sabbatical, diving into exciting projects with Three.js, Blender, R3F, Next.js, and Rive.app. I'm also exploring new ways to monetize Spiral Betty and sharing insights through talks on In-App Browsers (IAB). Always curious, always building!
+Currently, I’m on a creative sabbatical, diving into Three.js, Blender, R3F, Next.js, and Rive.app. I'm also exploring new ways to monetize Spiral Betty and sharing insights through talks on In-App Browsers (IAB). Always curious, always building!
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
 
