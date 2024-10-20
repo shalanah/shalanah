@@ -10,7 +10,7 @@ Currently, I’m on a creative sabbatical, diving into Three.js, Blender, R3F, N
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
 
-See work and project samples at [shalanah.com](https://shalanah.com)
+See work at [shalanah.com](https://shalanah.com)
  
 ## Projects + Experiments
 
