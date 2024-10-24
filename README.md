@@ -24,7 +24,7 @@ Spiral and other image filters web app. Went viral on <a href="https://tiktok.co
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> - Package for in-app detection (on npm)
 - <a href="https://github.com/shalanah/baseline">Baseline</a> - A new way to create leading on the web - no JS or font metrics needed
 - [First Character](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
-  <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
+- <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
 
 
 <!--
