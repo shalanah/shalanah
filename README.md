@@ -14,17 +14,18 @@ See work at [shalanah.com](https://shalanah.com)
  
 ## Projects + Experiments
 
-- <a href="https://wandawhirl.com">Wanda Whirl 🎊</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
-- <a href="https://ios404.com">iOS404 🧃</a> - The missing web features of iOS - using caniuse data
-- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger 🐞</a> - Handy website for in-app detection, download testing, and in-app escape methods
-- [Rosie the Robot 🤖](https://rosie-rive.netlify.app/) - Animation study with Rive + React
-- <a href="https://kindcloud.app">Kind Cloud 🌈</a> - Loving-kindness meditation web app
-- <a href="https://spiralbetty.com">Spiral Betty ꩜</a> -
+- <a href="https://wandawhirl.com">Wanda Whirl</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
+- <a href="https://ios404.com">iOS404</a> - The missing web features of iOS - using caniuse data
+- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> - Handy website for in-app detection, download testing, and in-app escape methods
+- [Rosie the Robot](https://rosie-rive.netlify.app/) - Animation study with Rive + React
+- <a href="https://kindcloud.app">Kind Cloud</a> - Loving-kindness meditation web app
+- <a href="https://spiralbetty.com">Spiral Betty</a> -
 Spiral and other image filters web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
-- <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep? 🐿️</a> - Book layout (design) and landing page
-- <a href="https://github.com/shalanah/inapp-spy">InAppSpy 🔎</a> - Package for in-app detection (on npm)
-- <a href="https://github.com/shalanah/baseline">Baseline 📏</a> - A new way to create leading on the web - no JS or font metrics needed
-- [First Character 📝](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
+- <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> - Package for in-app detection (on npm)
+- <a href="https://github.com/shalanah/baseline">Baseline</a> - A new way to create leading on the web - no JS or font metrics needed
+- [First Character](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
+  <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
+
 
 <!--
 ## 💻 Code Challenges
