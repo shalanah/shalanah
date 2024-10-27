@@ -11,6 +11,8 @@ I'm a big fan of React, TypeScript, SVG/Canvas, Tailwind and PWAs, but I'm equal
 
 I'm always eager to experiment and learn new technologies. Currently, I'm diving into WebGL, Three.js/R3F and Rive.app.
 
+## Contact
+
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
 
 See work at [shalanah.com](https://shalanah.com)
