@@ -13,7 +13,7 @@ I'm always eager to experiment and learn new technologies. Currently, I'm diving
 
 ## Connect
 
-Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> and <a target="_blank" href="https://bsky.app/">Bluesky</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
+Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="mailto:hi.shalanah@gmail.com">Email</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
 
 See work at [shalanah.com](https://shalanah.com)
  
