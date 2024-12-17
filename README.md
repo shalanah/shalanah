@@ -19,6 +19,7 @@ See work at [shalanah.com](https://shalanah.com)
  
 ## Projects + Experiments
 
+- <a href="https://supersnowflakemaker.com">Super Snowflake Maker</a> - Paper snowflake maker
 - <a href="https://wandawhirl.com">Wanda Whirl</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
 - <a href="https://ios404.com">iOS404</a> - The missing web features of iOS - using caniuse data
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> - Handy website for in-app detection, download testing, and in-app escape methods
