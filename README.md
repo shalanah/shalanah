@@ -7,6 +7,8 @@
 
 Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating captivating frontend experiences. My expertise lies in developing interactive tools that empower users to craft everything from photo albums and holiday cards to educational resources and solar panel designs. Although I've done work that touches the whole stack, user interfaces are my true love.
 
+## Tech
+
 I'm a big fan of React, TypeScript, SVG/Canvas, Tailwind and PWAs, but I'm equally comfortable handling DOM manipulation or crafting CSS from scratch.
 
 I'm always eager to experiment and learn new technologies. Currently, I'm diving into WebGL, Three.js/R3F and Rive.app.
