@@ -9,7 +9,7 @@ Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating cap
 
 ## Connect
 
-Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, or <a target="_blank" href="mailto:hi.shalanah@gmail.com">Email</a>. 
+Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, or <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>. 
  
 ## Projects + Experiments
 
