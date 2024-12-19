@@ -7,12 +7,6 @@
 
 Hi there! 👋 I'm Shalanah, a software engineer with a passion for creating captivating frontend experiences. My expertise lies in developing interactive tools that empower users to craft everything from photo albums and holiday cards to educational resources and solar panel designs. Although I've done work that touches the whole stack, user interfaces are my true love.
 
-## Tech
-
-I'm a big fan of React, TypeScript, SVG/Canvas, Tailwind and PWAs, but I'm equally comfortable handling DOM manipulation or crafting CSS from scratch.
-
-I'm always eager to experiment and learn new technologies. Currently, I'm diving into WebGL, Three.js/R3F and Rive.app.
-
 ## Connect
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, via <a target="_blank" href="mailto:hi.shalanah@gmail.com">Email</a> or view previous community <a href="https://github.com/shalanah/talks">Talks</a>. 
@@ -33,6 +27,12 @@ Image filter web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty"
 - <a href="https://github.com/shalanah/baseline">Baseline</a> - A new way to create leading on the web - no JS or font metrics needed
 - [First Character](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
+
+## Tech
+
+I'm a big fan of React, TypeScript, SVG/Canvas, Tailwind and PWAs, but I'm equally comfortable handling DOM manipulation or crafting CSS from scratch.
+
+I'm always eager to experiment and learn new technologies. Currently, I'm diving into WebGL, Three.js/R3F and Rive.app.
 
 
 <!--
