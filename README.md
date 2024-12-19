@@ -26,11 +26,6 @@ Image filter web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty"
 - [First Character](https://github.com/shalanah/block-wrap-breaks) - Find the first character of each line of a block of text
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
 
-## Tech
-
-I'm a big fan of React, TypeScript, SVG/Canvas, Tailwind and PWAs, but I'm equally comfortable handling DOM manipulation or crafting CSS from scratch.
-
-I'm always eager to experiment and learn new technologies. Currently, I'm diving into WebGL, Three.js/R3F and Rive.app.
 
 
 <!--
