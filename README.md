@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Shalanah, a senior software engineer with a passion for creating captivating frontend experiences. My expertise lies in developing interactive tools that empower users to craft everything from photo albums and holiday cards to educational resources and solar panel designs. Although I've done work that touches the whole stack, user interfaces are my true love.
+Hi there! 👋 I'm Shalanah, a senior software engineer with a passion for creating captivating frontend experiences. My expertise lies in developing interactive tools that empower users to craft everything from photo albums and paper snowflakes to educational resources and solar panel designs. Although I've done work that touches the whole stack, user interfaces are my true love.
 
 ## Connect
 
