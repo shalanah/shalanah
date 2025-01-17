@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Shalanah. I develop interactive tools that empower users to craft everything from photo albums and paper snowflakes to educational resources and solar panel designs. 
+Hi there! 👋 I'm Shalanah. I develop interactive tools that empower users to craft everything from <a href="https://shalanah.com/whcc">photo albums</a> and <a href="https://supersnowflakemaker.com">paper snowflakes</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. 
 
 Although I've done work that touches the whole stack, user interfaces are my true love.
 
