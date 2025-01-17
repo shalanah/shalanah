@@ -13,7 +13,7 @@ Although I've done work that touches the whole stack, user interfaces are my tru
 
 Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, or via <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>. 
  
-## Projects + Experiments
+## Projects
 
 - <a href="https://supersnowflakemaker.com">Super Snowflake Maker</a> - Paper snowflake maker
 - <a href="https://wandawhirl.com">Wanda Whirl</a> - Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
