@@ -1,6 +1,3 @@
-<!-- I create intuitive, interactive, and joyful interfaces. In the past, -->
-<img src="https://github.com/user-attachments/assets/a85c1c84-37fa-4941-b398-6013d37a866d" style="width: 100%" alt="wanda whirl streamer image" />
-
 ## About Me
 
 Hi there! 👋 I'm Shalanah. I develop interactive tools that empower users to craft everything from <a href="https://shalanah.com/snowflake">paper snowflakes</a> and <a href="https://shalanah.com/whcc">photo albums</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. 
