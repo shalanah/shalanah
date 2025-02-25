@@ -1,5 +1,3 @@
-<!-- ![](https://github.com/shalanah/shalanah/blob/master/shalanah.png?raw=true) -->
-
 <!-- I create intuitive, interactive, and joyful interfaces. In the past, -->
 <img src="https://github.com/user-attachments/assets/a85c1c84-37fa-4941-b398-6013d37a866d" style="width: 100%" alt="wanda whirl streamer image" />
 
