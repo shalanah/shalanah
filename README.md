@@ -1,10 +1,10 @@
 ## About Me
 
-I develop interactive tools that help users create everything from <a href="https://shalanah.com/snowflake">paper snowflakes</a> and <a href="https://shalanah.com/whcc">photo albums</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. 
+I develop interactive tools that help users craft everything from <a href="https://shalanah.com/snowflake">paper snowflakes</a> and <a href="https://shalanah.com/whcc">photo albums</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. 
 
 Although I've done work that touches the whole stack, user interfaces are my true love.
 
-I craft digital products at [Livefront](https://livefront.com) in Minneapolis, MN.
+I create digital products at [Livefront](https://livefront.com) in Minneapolis, MN.
 
 ## Connect
 
