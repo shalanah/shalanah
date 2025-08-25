@@ -1,12 +1,12 @@
-## About Me
+## About Shalanah
 
-I develop interactive tools that help users craft everything from <a href="https://shalanah.com/snowflake">paper snowflakes</a> and <a href="https://shalanah.com/whcc">photo albums</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. 
+<!-- I develop interactive tools that help users craft everything from <a href="https://shalanah.com/snowflake">paper snowflakes</a> and <a href="https://shalanah.com/whcc">photo albums</a> to <a href="https://shalanah.com/mathigon">educational resources</a> and <a href="https://shalanah.com/scanifly">solar panel designs</a>. -->
 
 Although I've done work that touches the whole stack, user interfaces are my true love.
 
 I create digital products at [Livefront](https://livefront.com) in Minneapolis, MN. 
 
-Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, or via <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>. 
+Connect with me on <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, via <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>, or checkout my <a target="_blank" href="https://shalanah.com">website</a>.
  
 ## Side Projects
 
