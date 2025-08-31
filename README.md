@@ -6,7 +6,7 @@ Although I've done work that touches the whole stack, user interfaces are my tru
 
 I create digital products at [Livefront](https://livefront.com) in Minneapolis, MN. 
 
-Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://bsky.app/">Bluesky</a>, <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>, <a target="_blank" href="https://shalanah.com">website</a>
+Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> <a target="_blank" href="https://bsky.app/">Bluesky</a> <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a> <a target="_blank" href="https://shalanah.com">website</a>
  
 ## Side Projects
 
