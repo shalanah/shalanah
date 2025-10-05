@@ -12,7 +12,7 @@ Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
 
 - <a href="https://supersnowflakemaker.com">Super Snowflake Maker</a> Paper snowflake maker
 - <a href="https://wandawhirl.com">Wanda Whirl</a> Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
-- <a href="https://ios404.com">iOS404</a> The missing web features of iOS - using caniuse data
+- <a href="https://ios404.com">iOS404</a> The missing web features of iOS
 - <a href="https://kindcloud.app">Kind Cloud</a> Loving-kindness meditation web app
 - <a href="https://spiralbetty.com">Spiral Betty</a> Image filter web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
