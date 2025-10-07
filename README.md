@@ -8,7 +8,7 @@ I create digital products at [Livefront](https://livefront.com) in Minneapolis, 
 
 Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> <a target="_blank" href="https://bsky.app/">Bluesky</a> <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a> <a target="_blank" href="https://shalanah.com">website</a>
  
-## Side Projects
+## Creative Side Projects
 
 - <a href="https://supersnowflakemaker.com">Super Snowflake Maker</a> Paper snowflake maker
 - <a href="https://wandawhirl.com">Wanda Whirl</a> Calming streamers that twirl and whirl in the breeze - or try to tangle them all up :)
@@ -17,7 +17,7 @@ Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
 - <a href="https://spiralbetty.com">Spiral Betty</a> Image filter web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
 
-## Open Source
+## Open Source Projects
 
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> Package for in-app detection (on npm)
 - <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> Handy website for in-app detection, download testing, and in-app escape methods
