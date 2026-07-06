@@ -18,7 +18,7 @@ Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
 ## Open Source Projects
 
 - <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> NPM package for in-app detection
-- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> Handy website for in-app detection, download testing, and in-app escape methods
+- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> Debug website for in-app detection, download testing, and in-app escape methods
 - [Rosie the Robot](https://rosie-rive.netlify.app/) Animation study with Rive + React
 - <a href="https://github.com/shalanah/baseline">Baseline</a> A new way to create leading on the web - no JS or font metrics needed
 - [First Character](https://github.com/shalanah/block-wrap-breaks) Find the first character of each line of a block of text
