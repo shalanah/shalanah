@@ -6,15 +6,6 @@ I create digital products at [Livefront](https://livefront.com) in Minneapolis, 
 
 Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> <a target="_blank" href="https://bsky.app/">Bluesky</a> <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a> <a target="_blank" href="https://shalanah.com">website</a>
 
-## Open Source Projects
-
-- <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> NPM package for in-app detection
-- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> Debug website for in-app detection, download testing, and in-app escape methods
-- [Rosie the Robot](https://rosie-rive.netlify.app/) Animation study with Rive + React
-- <a href="https://github.com/shalanah/baseline">Baseline</a> A new way to create leading on the web - no JS or font metrics needed
-- [First Character](https://github.com/shalanah/block-wrap-breaks) Find the first character of each line of a block of text
-
- 
 ## Creative Side Projects
 
 - <a href="https://supersnowflakemaker.com">Super Snowflake Maker</a> Paper snowflake maker
@@ -23,6 +14,14 @@ Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
 - <a href="https://kindcloud.app">Kind Cloud</a> Loving-kindness meditation
 - <a href="https://spiralbetty.com">Spiral Betty</a> Image filter web app. Went viral on <a href="https://tiktok.com/tag/spiralbetty">TikTok</a> (#spiralbetty over 140M views and 6K posts)
 - <a href="https://wheredoesthesquirrelsleep.com">Where Does the Squirrel Sleep?</a> - Book layout (design) and landing page
+
+## Open Source Projects
+
+- <a href="https://github.com/shalanah/inapp-spy">InAppSpy</a> NPM package for in-app detection
+- <a href="https://github.com/shalanah/inapp-debugger">InAppDebugger</a> Debug website for in-app detection, download testing, and in-app escape methods
+- [Rosie the Robot](https://rosie-rive.netlify.app/) Animation study with Rive + React
+- <a href="https://github.com/shalanah/baseline">Baseline</a> A new way to create leading on the web - no JS or font metrics needed
+- [First Character](https://github.com/shalanah/block-wrap-breaks) Find the first character of each line of a block of text
 
 <!--
 ## 💻 Code Challenges
