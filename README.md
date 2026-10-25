@@ -4,7 +4,6 @@
 
 I create digital products at [Livefront](https://livefront.com) in Minneapolis, MN. 
 
-Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a> <a target="_blank" href="https://bsky.app/">Bluesky</a> <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a> <a target="_blank" href="https://shalanah.com">website</a>
 
 ## Creative Side Projects
 
@@ -22,6 +21,13 @@ Connect: <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
 - [Rosie the Robot](https://rosie-rive.netlify.app/) Animation study with Rive + React
 - <a href="https://github.com/shalanah/baseline">Baseline</a> A new way to create leading on the web - no JS or font metrics needed
 - [First Character](https://github.com/shalanah/block-wrap-breaks) Find the first character of each line of a block of text
+
+## Connect
+
+- <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
+- <a target="_blank" href="https://bsky.app/">Bluesky</a>
+- <a target="_blank" href="mailto:hi.shalanah@gmail.com">email</a>
+- <a target="_blank" href="https://shalanah.com">website</a>
 
 <!--
 ## 💻 Code Challenges
